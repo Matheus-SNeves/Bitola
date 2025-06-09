@@ -11,7 +11,9 @@ Basta inserir o valor que será investido mensalmente, o número de meses que o 
 
 
 ## 3. Tecnologias
-Framework: Flutter
-Linguagem de Programação: Dart
+Flutter
+Dart
+vsCode
+Firebase Studio
 
 ## 4. Passo a Passo de Como Executar
