@@ -1,16 +1,15 @@
-# myapp
+# Bitola
+## 1. Descrição do Projeto
+Este projeto visa o desenvolvimento de um aplicativo para auxiliar alunos e profissionais na área de instalações elétricas, especificamente no cálculo da bitola adequada de fios para diferentes aplicações, considerando as tensões mais comuns.
 
-A new Flutter project.
+## 2. Prints das Telas
+![Image of Tela de Login] (./assets/login.png)
+![Image of Cadastro de Produtos] (./assets/cadastro_produtos.png)
+![Image of Listagem de Vendas] (./assets/listagem_vendas.png)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## 3. Tecnologias
+Framework: Flutter
+Linguagem de Programação: Dart
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 4. Passo a Passo de Como Executar
