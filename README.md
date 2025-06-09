@@ -11,9 +11,10 @@ Basta inserir o valor que será investido mensalmente, o número de meses que o 
 
 
 ## 3. Tecnologias
-Flutter
-Dart
-vsCode
-Firebase Studio
+- Flutter
+- Dart
+- vsCode
+- Firebase Studio
+
 
 ## 4. Passo a Passo de Como Executar
